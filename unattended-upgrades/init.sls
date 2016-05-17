@@ -2,5 +2,5 @@
 # vim: ft=sls
 
 include:
-  - template.install
-  - template.config
+  - unattended-upgrades.install
+  - unattended-upgrades.config
